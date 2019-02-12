@@ -20,7 +20,7 @@
         </q-card-actions>
       </q-card>
     </q-collapsible>
-    <q-collapsible group="users" label="Patrick" avatar="https://placeimg.com/128/128/people/2">
+    <q-collapsible group="users" label="Patrick Swayze" avatar="https://placeimg.com/128/128/people/2">
       <q-card inline style="width: 300px">
         <q-card-media>
           <img src="https://placeimg.com/300/200/people/2">
@@ -39,7 +39,7 @@
         </q-card-actions>
       </q-card>
     </q-collapsible>
-    <q-collapsible group="users" label="Walter" avatar="https://placeimg.com/128/128/people/3">
+    <q-collapsible group="users" label="Walter White" avatar="https://placeimg.com/128/128/people/3">
       <q-card inline style="width: 300px">
         <q-card-media>
           <img src="https://placeimg.com/300/200/people/3">
