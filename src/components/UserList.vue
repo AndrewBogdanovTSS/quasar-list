@@ -1,7 +1,7 @@
 <template>
   <q-list>
     <q-list-header>User List</q-list-header>
-    <q-collapsible group="users" label="Jane Doe" avatar="https://placeimg.com/128/128/people/1">
+    <q-collapsible group="users" label="Jane Doe" avatar="https://placeimg.com/38/38/people/1">
       <q-card inline style="width: 300px">
         <q-card-media>
           <img src="https://placeimg.com/300/200/people/1">
@@ -20,7 +20,7 @@
         </q-card-actions>
       </q-card>
     </q-collapsible>
-    <q-collapsible group="users" label="Patrick Swayze" avatar="https://placeimg.com/128/128/people/2">
+    <q-collapsible group="users" label="Patrick Swayze" avatar="https://placeimg.com/38/38/people/2">
       <q-card inline style="width: 300px">
         <q-card-media>
           <img src="https://placeimg.com/300/200/people/2">
@@ -39,7 +39,7 @@
         </q-card-actions>
       </q-card>
     </q-collapsible>
-    <q-collapsible group="users" label="Walter White" avatar="https://placeimg.com/128/128/people/3">
+    <q-collapsible group="users" label="Walter White" avatar="https://placeimg.com/38/38/people/3">
       <q-card inline style="width: 300px">
         <q-card-media>
           <img src="https://placeimg.com/300/200/people/3">
@@ -59,42 +59,6 @@
       </q-card>
     </q-collapsible>
   </q-list>
-  <!--<q-list highlight>
-    <q-list-header>Recent chats</q-list-header>
-    <q-item>
-      <q-item-side>
-        <q-item-tile avatar>
-          <img src="https://placeimg.com/250/250/people">
-        </q-item-tile>
-      </q-item-side>
-      <q-item-main label="John Doe"/>
-      <q-item-side right>
-        <q-item-tile icon="chat_bubble" color="green"/>
-      </q-item-side>
-    </q-item>
-    <q-item>
-      <q-item-side>
-        <q-item-tile avatar>
-          <img src="https://placeimg.com/250/250/people">
-        </q-item-tile>
-      </q-item-side>
-      <q-item-main label="John Doe"/>
-      <q-item-side right>
-        <q-item-tile icon="chat_bubble" color="green"/>
-      </q-item-side>
-    </q-item>
-    <q-item>
-      <q-item-side>
-        <q-item-tile avatar>
-          <img src="https://placeimg.com/250/250/people">
-        </q-item-tile>
-      </q-item-side>
-      <q-item-main label="John Doe"/>
-      <q-item-side right>
-        <q-item-tile icon="chat_bubble" color="green"/>
-      </q-item-side>
-    </q-item>
-  </q-list>-->
 </template>
 
 <script>
